@@ -1,12 +1,28 @@
-# React + Vite
+# 📝 TodoList - React
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+![TodoList Preview](https://raw.githubusercontent.com/Arthurlsk/TodoList/main/assets/preview.png) <!-- se tiver screenshot, substitua -->
 
-Currently, two official plugins are available:
+Um aplicativo simples de gerenciamento de tarefas desenvolvido em **React** com foco em interatividade e estilização moderna.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+---
 
-## Expanding the ESLint configuration
+## ✨ Funcionalidades
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- Adicionar tarefas em uma lista dinâmica;
+- Remover tarefas individualmente;
+- Interface estilizada com **Styled Components**;
+- Gerenciamento de estado com **useState**.
+
+---
+
+## 🛠 Tecnologias Utilizadas
+
+- **React** – Biblioteca principal para a interface;
+- **Vite** – Ferramenta de build rápida e leve;
+- **Styled Components** – Para estilização de componentes;
+- **JavaScript** – Lógica do projeto.
+
+---
+
+
+
