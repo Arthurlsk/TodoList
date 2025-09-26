@@ -1,7 +1,5 @@
 # 📝 TodoList - React
 
-![TodoList Preview](https://raw.githubusercontent.com/Arthurlsk/TodoList/main/assets/preview.png) <!-- se tiver screenshot, substitua -->
-
 Um aplicativo simples de gerenciamento de tarefas desenvolvido em **React** com foco em interatividade e estilização moderna.
 
 ---
